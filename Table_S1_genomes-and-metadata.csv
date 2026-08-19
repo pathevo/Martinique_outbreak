@@ -1,0 +1,281 @@
+﻿representative_ICE,ICE_fullname,pairwise_identity_w_representative_ICE_excl_transposase,transposase_insertion_vs_representative_ICE,ICE_host_strain_ID,RSSC_lineage,year_of_isolation,global_region_of_isolation,country_of_isolation,area_or_nearest_village,material_of_isolation,Clade_of_isolation,order_of_isolation,host_genus_of_isolation,host_spp_of_isolation
+ICERps_FQY_4,FQY_4_ICE,NA,,FQY_4,RpsI,,Asia,China,,,,,,
+ICERps_GMI1000,GRsMep_ICE,100,,GRsMep,RpsI,2013,Asia,India,,,Monocot,Zingiberales,Zingiber,Zingiber officinale
+ICERps_RS10-1,362200_ICE,99.98,IS1420_IS481,362200,RpsI,2016,Asia,China,,,Eudicot,Fabales,Arachis,Arachis hypogaea
+ICERps_RS10-1,Bg07_ICE,99.99,IS481,Bg07,RpsI,2017,Asia,China,,,Eudicot,Cucurbitales,Momordica,Momordica charantia
+ICERps_RS10-1,HA4-1_ICE,99.98,IS481,HA4-1,RpsI,2010,Asia,China,,,Eudicot,Fabales,Arachis,Arachis hypogaea
+ICERps_RS10-1,PeaFJ1_ICE,99.98,IS481,PeaFJ1,RpsI,2014,Asia,China,,,Eudicot,Fabales,Arachis,Arachis hypogaea
+ICERps_RS10-1,RS10_ICE_1,NA,,RS10,RpsI,2018,Asia,China,,,Eudicot,Solanales,Nicotiana,Nicotiana tabacum
+ICERps_RS10-1,SY1_ICE,99.99,,SY1,RpsI,2020,Asia,China,,,Eudicot,Lamiales,Pogostemon,Pogostemon cablin
+ICERps_RS10-2,RS10_ICE_2,NA,,RS10,RpsI,2018,Asia,China,,,Eudicot,Solanales,Nicotiana,Nicotiana tabacum
+ICERps_RS24,RS24_ICE,NA,,RS24,RpsI,2018,Asia,China,,,Eudicot,Solanales,Solanum,Solanum muricatum
+ICERps_RS638,RS638_ICE,NA,,RS638,RpsI,2020,Asia,China,,,Eudicot,Asterales,Helianthus,Helianthus sp.
+ICERps_Tb04,Tb04_ICE,NA,,Tb04,RpsI,2015,Asia,China,,,Eudicot,Solanales,Nicotiana,Nicotiana tabacum
+ICERps_YC40-M,YC40-M_ICE,NA,,YC40-M,RpsI,2006,Asia,China,,,Monocot,Zingiberales,Kaempferia,Rhizoma kaempferiae
+ICERps_FJAT-91,FJAT-91_ICE,100,group II intron reverse transcriptase/maturase insertion,FJAT-91,RpsI,2009,Asia,China,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_FJAT-91,FJAT91-F1_ICE,100,group II intron reverse transcriptase/maturase insertion,FJAT91-F1,RpsI,2019,Asia,China,,,,,,
+ICERps_FJAT-91,FJAT91-F8_ICE,100,group II intron reverse transcriptase/maturase insertion,FJAT91-F8,RpsI,2019,Asia,China,,,,,,
+ICERps_FJAT-91,FJAT91.F50_ICE,100,group II intron reverse transcriptase/maturase insertion,FJAT91.F50,RpsI,2019,Asia,China,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_FJAT-91,MAFF_211471,100,,MAFF_211471,RpsI,1997,Asia,Japan,,,Monocot,Zingiberales,Zingiber,Zingiber officinale
+ICERps_FJAT-91,MAFF_211472,100,,MAFF_211472,RpsI,,Asia,Japan,,,Monocot,Zingiberales,Zingiber,Zingiber officinale
+ICERps_FJAT-91,Wj644_ICE,100,,Wj644,RpsI,2015,Asia,South Korea,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_FJAT-91,YQ_ICE,100,group II intron reverse transcriptase/maturase insertion,YQ,RpsI,2014,Asia,China,,,Eudicot,Fagales,Casuarina,Casuarina equisetifolia
+ICERps_Pp26,Cq01_ICE,100,,Cq01,RpsI,2016,Asia,China,,,Eudicot,Cucurbitales,Benincasa,Benincasa hispida
+ICERps_Pp26,Pp26_ICE,100,,Pp26,RpsI,2018,Asia,China,,,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERps_Pp26,Rs-T02_ICE,100,,Rs-T02,RpsI,2010,Asia,China,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_Pp26,Tg03_ICE,100,,Tg03,RpsI,2017,Asia,China,,,Eudicot,Cucurbitales,Luffa,Luffa aegyptiaca
+ICERps_RUN1948,RUN1948_ICE,NA,,RUN1948,RpsI17,2011,South America,French Guiana,Cacao,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERps_RUN1948,RUN1950_ICE,100,,RUN1950,RpsI17,2011,South America,French Guiana,Macouria,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERps_RUN1948,RUN1952_ICE,100,,RUN1952,RpsI17,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERps_RUN1948,RUN1954_ICE,100,,RUN1954,RpsI17,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERps_RUN1948,RUN1981_ICE,100,,RUN1981,RpsI17,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERps_RUN1948,RUN1984_ICE,100,,RUN1984,RpsI17,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERps_RUN1948,RUN1985_ICE,100,,RUN1985,RpsI17,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERps_RUN1948,RUN1986_ICE,100,,RUN1986,RpsI17,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERps_RUN1948,RUN1987_ICE,100,,RUN1987,RpsI17,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERps_RUN1948,RUN2228_ICE,100,,RUN2228,RpsI17,2012,South America,French Guiana,Corrossony 2,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_RUN1948,RUN2231_ICE,100,,RUN2231,RpsI17,2012,South America,French Guiana,Corrossony 2,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_RUN1948,RUN2232_ICE,100,,RUN2232,RpsI17,2012,South America,French Guiana,Corrossony 2,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_RUN1948,RUN2233_ICE,100,,RUN2233,RpsI17,2012,South America,French Guiana,Corrossony 2,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_GMI1000,GMI1000_ICE,NA,,GMI1000,RpsI18,1978,South America,French Guiana,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_GMI1000,RUN1955_ICE,NA,,RUN1955,RpsI18,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERps_GMI1000,RUN1958_ICE,NA,,RUN1958,RpsI18,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERps_GMI1000,UQRS637_UW745_ICE,NA,,UQRS637_UW745,RpsI18,,Asia,Indonesia,,,Monocot,Zingiberales,Musa,Musa spp.
+ICERps_O12BS_UW407,O12BS_UW407_ICE,NA,,O12BS_UW407,RpsI18,1965,Oceania,Australia,,,Eudicot,Solanales,Solanum,Solanum tuberosum
+ICERps_RS_476,RS_476_ICE,NA,,RS_476,RpsI18,2011,South America,Brazil,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_RUN0037,RUN0037_ICE,NA,,RUN0037,RpsI18,1983,Caribbean,Martinique,Schoelcher,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERps_RUN0037,RUN0729_ICE,99.997,,RUN0729,RpsI18,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERps_RUN0037,RUN0785_ICE,99.999,,RUN0785,RpsI18,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Capsicum,Capsicum sp.
+ICERps_RUN0037,RUN1208_ICE,99.999,,RUN1208,RpsI18,2007,Caribbean,Martinique,Saint Esprit,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_RUN0748,RUN0748_ICE,NA,,RUN0748,RpsI18,2002,Caribbean,Martinique,Le Marin,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERps_RUN0765,RUN0765_ICE,NA,,RUN0765,RpsI18,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Capsicum,Capsicum sp.
+ICERps_RUN0765,RUN1268_ICE,NA,,RUN1268,RpsI18,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Capsicum,Capsicum sp.
+ICERps_RUN0796,RUN0796_ICE,NA,,RUN0796,RpsI18,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Apiales,Petroselinum,Petroselinum crispum
+ICERps_RUN0796,RUN1080_ICE,100,,RUN1080,RpsI18,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Capsicum,Capsicum sp.
+ICERps_RUN0796,RUN1199_ICE,100,,RUN1199,RpsI18,2002,Caribbean,Martinique,Saint Pierre,plant,Eudicot,Cucurbitales,Citrullus,Citrullus lanatus
+ICERps_RUN0820,RUN0715_ICE,99.997,,RUN0715,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0717_ICE,100,,RUN0717,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0718_ICE,99.995,,RUN0718,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0720_ICE,100,homopolymer_run_excluded,RUN0720,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0724_ICE,100,,RUN0724,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0725_ICE,100,,RUN0725,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0731_ICE,99.997,,RUN0731,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0735_ICE,100,,RUN0735,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0740_ICE,99.999,,RUN0740,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0749_ICE,100,,RUN0749,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0751_ICE,100,,RUN0751,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0752_ICE,100,homopolymer_run_excluded,RUN0752,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0753_ICE,100,,RUN0753,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0757_ICE,100,,RUN0757,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0758_ICE,100,,RUN0758,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0778_ICE,100,,RUN0778,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0783_ICE,100,,RUN0783,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0792_ICE,100,,RUN0792,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0793_ICE,100,,RUN0793,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0798_ICE,100,,RUN0798,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0800_ICE,99.999,,RUN0800,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0803_ICE,100,,RUN0803,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0804_ICE,100,,RUN0804,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0805_ICE,100,,RUN0805,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0807_ICE,100,,RUN0807,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0814_ICE,100,,RUN0814,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0820_ICE,NA,,RUN0820,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0822_ICE,100,,RUN0822,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0826_ICE,100,,RUN0826,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0829_ICE,99.999,,RUN0829,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0830_ICE,100,,RUN0830,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0834_ICE,100,,RUN0834,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN0837_ICE,100,,RUN0837,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN0820,RUN1065_ICE,99.995,,RUN1065,RpsI18,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERps_RUN1101,RUN1101_ICE,NA,,RUN1101,RpsI18,2002,Caribbean,Martinique,Marigot,plant,Eudicot,Solanales,Capsicum,Capsicum sp.
+ICERps_RUN1258,RUN1258_ICE,NA,,RUN1258,RpsI18,2003,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_UW193,UW193_ICE,NA,,UW193,RpsI18,,South America,Peru,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_UW193,UW299_ICE_2,NA,,UW299,RpsI18,1976,South America,Brazil,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_UW299-1,UW299_ICE_1,NA,,UW299,RpsI18,1976,South America,Brazil,,,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERps_UW386-1,UW386_ICE_1,NA,,UW386,RpsIII,1979,Africa,Nigeria,,,Eudicot,Solanales,Solanum,Solanum nigrum
+ICERps_UW386-2,UW386_ICE_2,NA,,UW386,RpsIII,1979,Africa,Nigeria,,,Eudicot,Solanales,Solanum,Solanum nigrum
+ICERps_NCPPB_216,NCPPB_216_ICE,NA,,NCPPB_216,RpsIII,,,,,,,,,
+ICERps_RUN2279,RUN2279_ICE,NA,,RUN2279,RpsIII,2013,Africa,Madagascar,,,Eudicot,Solanales,Solanum,Solanum tuberosum
+ICERso_RUN1155,RUN1155_ICE,NA,,RUN1155,RsoIIA,2003,Caribbean,Martinique,Morne Vert,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN0755,RUN0755_ICE,NA,,RUN0755,RsoIIA38,2007,Caribbean,Martinique,Le Precheur,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1977,RUN1977_ICE,NA,,RUN1977,RsoIIA38,2011,South America,French Guiana,Corossony 1,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERso_RUN1977,RUN1978_ICE,99.998,,RUN1978,RsoIIA38,2011,South America,French Guiana,Corossony 1,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERso_RUN1977,RUN2003_ICE,99.995,,RUN2003,RsoIIA38,2011,South America,French Guiana,Corossony 1,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1977,RUN2005_ICE,99.995,,RUN2005,RsoIIA38,2011,South America,French Guiana,Corossony 1,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1977,RUN2006_ICE,99.995,,RUN2006,RsoIIA38,2011,South America,French Guiana,Corossony 1,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1977,RUN2010_ICE,99.995,,RUN2010,RsoIIA38,2011,South America,French Guiana,Corossony 1,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_CIP211_UW461,CIP211_UW461_ICE,NA,,CIP211_UW461,RsoIIB,1978,South America,Brazil,,,Eudicot,Solanales,Solanum,Solanum tuberosum
+ICERso_CIP211_UW461,CIP214_UW488_ICE,100,,CIP214_UW488,RsoIIB,1978,South America,Brazil,,,Eudicot,Solanales,Solanum,Solanum americanum
+ICERso_RUN1145,P673_ICE,100,,P673,RsoIIB4NPB,2003,North America,USA,,,Monocot,Alismatales,Epipremnum,Epipremnum spp.
+ICERso_RUN1145,RUN0002_ICE,100,,RUN0002,RsoIIB4NPB,2000,Caribbean,Martinique,,,Monocot,Alismatales,Anthurium,Anthurium spp.
+ICERso_RUN1145,RUN0004_ICE,100,,RUN0004,RsoIIB4NPB,1999,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0005_ICE,100,,RUN0005,RsoIIB4NPB,1999,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0006_ICE,100,,RUN0006,RsoIIB4NPB,1999,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0008_ICE,100,,RUN0008,RsoIIB4NPB,1999,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0015_ICE,100,,RUN0015,RsoIIB4NPB,1999,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0017_ICE,100,,RUN0017,RsoIIB4NPB,2002,Caribbean,Martinique,Morne Rouge,plant,Monocot,Zingiberales,Heliconia,Heliconia caribea
+ICERso_RUN1145,RUN0018_ICE,100,,RUN0018,RsoIIB4NPB,2002,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0261_ICE,100,,RUN0261,RsoIIB4NPB,2002,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN0276_ICE,100,,RUN0276,RsoIIB4NPB,2002,Caribbean,Martinique,Saint Esprit,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita moschata
+ICERso_RUN1145,RUN0281_ICE,100,,RUN0281,RsoIIB4NPB,2001,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0282_ICE,100,,RUN0282,RsoIIB4NPB,2000,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0283_ICE,100,,RUN0283,RsoIIB4NPB,,Caribbean,Martinique,,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0284_ICE,100,,RUN0284,RsoIIB4NPB,2002,Caribbean,Martinique,Fonds Saint Denis,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN0285_ICE,100,,RUN0285,RsoIIB4NPB,2002,Caribbean,Martinique,Vauclin,plant,Eudicot,Cucurbitales,Cucumis,Cucumis melo
+ICERso_RUN1145,RUN0286_ICE,100,,RUN0286,RsoIIB4NPB,2002,Caribbean,Martinique,Morne Rouge,plant,Monocot,Pandanales,Pandanus,Pandanus sp.
+ICERso_RUN1145,RUN0287_ICE,100,,RUN0287,RsoIIB4NPB,2002,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0289_ICE,100,,RUN0289,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0290_ICE,100,,RUN0290,RsoIIB4NPB,2002,Caribbean,Martinique,Le Marin,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita moschata
+ICERso_RUN1145,RUN0291_ICE,100,,RUN0291,RsoIIB4NPB,2002,Caribbean,Martinique,Basse Pointe,plant,Eudicot,Cucurbitales,Citrullus,Citrullus lanatus
+ICERso_RUN1145,RUN0292_ICE,100,,RUN0292,RsoIIB4NPB,2003,Caribbean,Martinique,Saint Esprit,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0293_ICE,100,,RUN0293,RsoIIB4NPB,2003,Caribbean,Martinique,Macouba,plant,Eudicot,Cucurbitales,Citrullus,Citrullus lanatus
+ICERso_RUN1145,RUN0295_ICE,100,,RUN0295,RsoIIB4NPB,2004,Caribbean,Martinique,Trinite,plant,Monocot,Zingiberales,Musa,Musa acuminata x balbisiana AAB
+ICERso_RUN1145,RUN0296_ICE,100,,RUN0296,RsoIIB4NPB,2004,Caribbean,Martinique,Trinite,plant,Monocot,Zingiberales,Musa,Musa acuminata x balbisiana AAB
+ICERso_RUN1145,RUN0354_ICE,100,,RUN0354,RsoIIB4NPB,2003,Caribbean,Martinique,Macouba,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0358_ICE,100,,RUN0358,RsoIIB4NPB,2002,Caribbean,Martinique,Saint Joseph,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0360_ICE,100,,RUN0360,RsoIIB4NPB,2003,Caribbean,Martinique,Basse Pointe,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0429_ICE,100,,RUN0429,RsoIIB4NPB,2006,Caribbean,Martinique,Macouba,plant,Monocot,Zingiberales,Musa,Musa sp.
+ICERso_RUN1145,RUN0430_ICE,100,,RUN0430,RsoIIB4NPB,2006,Caribbean,Martinique,Macouba,plant,Monocot,Zingiberales,Musa,Musa sp.
+ICERso_RUN1145,RUN0431_ICE,100,,RUN0431,RsoIIB4NPB,2006,South America,French Guiana,Macouria,water_irrigation,Environmental,Environmental,Water,water_irrigation
+ICERso_RUN1145,RUN0432_ICE,100,,RUN0432,RsoIIB4NPB,2006,South America,French Guiana,Macouria,water_irrigation,Environmental,Environmental,Water,water_irrigation
+ICERso_RUN1145,RUN0433_ICE,100,,RUN0433,RsoIIB4NPB,2006,South America,French Guiana,Macouria,water_irrigation,Environmental,Environmental,Water,water_irrigation
+ICERso_RUN1145,RUN0438_ICE,100,,RUN0438,RsoIIB4NPB,2006,Caribbean,Martinique,Saint Esprit,water_irrigation,Environmental,Environmental,Water,water_irrigation
+ICERso_RUN1145,RUN0520_ICE,100,,RUN0520,RsoIIB4NPB,2006,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum americanum
+ICERso_RUN1145,RUN0522_ICE,100,,RUN0522,RsoIIB4NPB,2006,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum americanum
+ICERso_RUN1145,RUN0660_ICE,100,,RUN0660,RsoIIB4NPB,2006,South America,French Guiana,,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN0716_ICE,100,,RUN0716,RsoIIB4NPB,2002,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanumXX
+ICERso_RUN1145,RUN0719_ICE,100,,RUN0719,RsoIIB4NPB,2002,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0722_ICE,100,,RUN0722,RsoIIB4NPB,2002,Caribbean,Martinique,Saint Joseph,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0723_ICE,100,,RUN0723,RsoIIB4NPB,2002,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0726_ICE,100,,RUN0726,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0727_ICE,100,,RUN0727,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0732_ICE,100,,RUN0732,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0739_ICE,100,,RUN0739,RsoIIB4NPB,,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0741_ICE,100,,RUN0741,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0744_ICE,100,,RUN0744,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0745_ICE,100,,RUN0745,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0746_ICE,100,,RUN0746,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN0747_ICE,100,,RUN0747,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0750_ICE,100,,RUN0750,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0754_ICE,100,,RUN0754,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0756_ICE,100,,RUN0756,RsoIIB4NPB,2002,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN0759_ICE,100,,RUN0759,RsoIIB4NPB,2002,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN0760_ICE,100,,RUN0760,RsoIIB4NPB,2002,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN0762_ICE,100,,RUN0762,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0763_ICE,100,,RUN0763,RsoIIB4NPB,2002,Caribbean,Martinique,Saint Jospeh,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0766_ICE,100,,RUN0766,RsoIIB4NPB,2002,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN0767_ICE,100,,RUN0767,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lamentin,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0768_ICE,100,,RUN0768,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0769_ICE,100,,RUN0769,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lamentin,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0770_ICE,100,,RUN0770,RsoIIB4NPB,2002,Caribbean,Martinique,Le Marin,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita moschata
+ICERso_RUN1145,RUN0772_ICE,100,,RUN0772,RsoIIB4NPB,2002,Caribbean,Martinique,Le Marin,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita moschata
+ICERso_RUN1145,RUN0776_ICE,100,,RUN0776,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0777_ICE,100,,RUN0777,RsoIIB4NPB,2006,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum americanum
+ICERso_RUN1145,RUN0780_ICE,100,,RUN0780,RsoIIB4NPB,2006,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum americanum
+ICERso_RUN1145,RUN0786_ICE,100,,RUN0786,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0787_ICE,100,,RUN0787,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0788_ICE,100,,RUN0788,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0789_ICE,100,,RUN0789,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0790_ICE,100,,RUN0790,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0791_ICE,100,,RUN0791,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0795_ICE,100,,RUN0795,RsoIIB4NPB,2002,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0799_ICE,100,,RUN0799,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0801_ICE,100,,RUN0801,RsoIIB4NPB,2002,Caribbean,Martinique,Basse Pointe,plant,Eudicot,Cucurbitales,Citrullus,Citrullus lanatus
+ICERso_RUN1145,RUN0802_ICE,100,,RUN0802,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0806_ICE,100,,RUN0806,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0808_ICE,100,,RUN0808,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0809_ICE,100,,RUN0809,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0810_ICE,100,,RUN0810,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0813_ICE,100,,RUN0813,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0815_ICE,100,,RUN0815,RsoIIB4NPB,2007,Caribbean,Martinique,Basse Pointe,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0816_ICE,100,,RUN0816,RsoIIB4NPB,2002,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN0823_ICE,100,,RUN0823,RsoIIB4NPB,2002,Caribbean,Martinique,Morne Rouge,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN0824_ICE,100,,RUN0824,RsoIIB4NPB,2002,Caribbean,Martinique,Sainte Anne,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0827_ICE,100,,RUN0827,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0828_ICE,100,,RUN0828,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN0833_ICE,100,,RUN0833,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0836_ICE,100,,RUN0836,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0840_ICE,100,,RUN0840,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0841_ICE,100,,RUN0841,RsoIIB4NPB,2007,Caribbean,Martinique,Le Lorrain,soil,Environmental,Environmental,Soil,soil_banana_fallow
+ICERso_RUN1145,RUN0985_ICE,100,,RUN0985,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1046_ICE,100,,RUN1046,RsoIIB4NPB,2005,Caribbean,Martinique,Gros Morne,water_river_baited,Environmental,Environmental,Water,water_river_baited_Solanum
+ICERso_RUN1145,RUN1052_ICE,100,,RUN1052,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1061_ICE,100,,RUN1061,RsoIIB4NPB,2005,Caribbean,Martinique,Ducos,water_lake_baited_Solanum,Environmental,Environmental,Water,water_lake_baited_Solanum
+ICERso_RUN1145,RUN1062_ICE,100,,RUN1062,RsoIIB4NPB,2005,Caribbean,Martinique,Ducos,water_lake_baited_Solanum,Environmental,Environmental,Water,water_lake_baited_Solanum
+ICERso_RUN1145,RUN1064_ICE,100,,RUN1064,RsoIIB4NPB,2005,Caribbean,Martinique,Ducos,water_lake_baited_Solanum,Environmental,Environmental,Water,water_lake_baited_Solanum
+ICERso_RUN1145,RUN1069_ICE,100,,RUN1069,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1070_ICE,100,,RUN1070,RsoIIB4NPB,2002,Caribbean,Martinique,Basse Pointe,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1072_ICE,100,,RUN1072,RsoIIB4NPB,2004,Caribbean,Martinique,Le Francois,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN1075_ICE,100,,RUN1075,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1081_ICE,100,,RUN1081,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1082_ICE,100,,RUN1082,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1083_ICE,100,,RUN1083,RsoIIB4NPB,2006,Caribbean,Martinique,Macouba,plant,Monocot,Zingiberales,Heliconia,Heliconia caribea
+ICERso_RUN1145,RUN1094_ICE,100,,RUN1094,RsoIIB4NPB,2005,Caribbean,Martinique,Gros Morne,water_river,Environmental,Environmental,Water,water_river
+ICERso_RUN1145,RUN1096_ICE,100,,RUN1096,RsoIIB4NPB,2002,Caribbean,Martinique,Le Francois,plant,Eudicot,Cucurbitales,Cucumis,Cucumis melo
+ICERso_RUN1145,RUN1098_ICE,100,,RUN1098,RsoIIB4NPB,2002,Caribbean,Martinique,Saint Joseph,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN1099_ICE,100,,RUN1099,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1104_ICE,100,,RUN1104,RsoIIB4NPB,2002,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN1105_ICE,100,,RUN1105,RsoIIB4NPB,2003,Caribbean,Martinique,Le Lamentin,plant,Monocot,Zingiberales,Musa,Musa acuminata x balbisiana AAA
+ICERso_RUN1145,RUN1121_ICE,100,,RUN1121,RsoIIB4NPB,2005,Caribbean,Martinique,Ducos,water_lake_baited_Solanum,Environmental,Environmental,Water,water_lake_baited_Solanum
+ICERso_RUN1145,RUN1127_ICE,100,,RUN1127,RsoIIB4NPB,2001,Caribbean,Martinique,,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1130_ICE,100,,RUN1130,RsoIIB4NPB,2007,Caribbean,Martinique,Vauclin,plant,Eudicot,Cucurbitales,Cucumis,Cucumis melo
+ICERso_RUN1145,RUN1132_ICE,100,,RUN1132,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita pepo
+ICERso_RUN1145,RUN1133_ICE,100,,RUN1133,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita pepo
+ICERso_RUN1145,RUN1134_ICE,100,,RUN1134,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita pepo
+ICERso_RUN1145,RUN1136_ICE,100,,RUN1136,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN1137_ICE,100,,RUN1137,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Cucurbitales,Cucumis,Cucumis sativus
+ICERso_RUN1145,RUN1138_ICE,100,,RUN1138,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita pepo
+ICERso_RUN1145,RUN1139_ICE,100,,RUN1139,RsoIIB4NPB,2007,Caribbean,Martinique,Basse Pointe,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1140_ICE,100,,RUN1140,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1142_ICE,100,,RUN1142,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1145_ICE,NA,,RUN1145,RsoIIB4NPB,2003,Caribbean,Martinique,Saint Esprit,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita moschata
+ICERso_RUN1145,RUN1146_ICE,100,,RUN1146,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1148_ICE,100,,RUN1148,RsoIIB4NPB,2002,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN1151_ICE,100,,RUN1151,RsoIIB4NPB,2002,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN1160_ICE,100,,RUN1160,RsoIIB4NPB,2003,Caribbean,Martinique,Basse Pointe,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1166_ICE,100,,RUN1166,RsoIIB4NPB,2006,Caribbean,Martinique,Macouba,plant,Monocot,Zingiberales,Heliconia,Heliconia rostrata
+ICERso_RUN1145,RUN1167_ICE,100,,RUN1167,RsoIIB4NPB,2002,Caribbean,Martinique,Saint Pierre,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1171_ICE,100,,RUN1171,RsoIIB4NPB,2006,Caribbean,Martinique,Macouba,plant,Monocot,Zingiberales,Heliconia,Heliconia rostrata
+ICERso_RUN1145,RUN1173_ICE,100,,RUN1173,RsoIIB4NPB,2006,Caribbean,Martinique,Macouba,plant,Monocot,Zingiberales,Heliconia,Heliconia rostrata
+ICERso_RUN1145,RUN1174_ICE,100,,RUN1174,RsoIIB4NPB,2006,South America,French Guiana,Macouria,water,Environmental,Environmental,Water,water
+ICERso_RUN1145,RUN1175_ICE,100,,RUN1175,RsoIIB4NPB,2006,Caribbean,Martinique,Le Lamentin,plant,Eudicot,Solanales,Physalis,Physalis angulata
+ICERso_RUN1145,RUN1188_ICE,100,,RUN1188,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1189_ICE,100,,RUN1189,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1190_ICE,100,,RUN1190,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1191_ICE,100,,RUN1191,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,water_irrigation,Environmental,Environmental,Water,water_irrigation
+ICERso_RUN1145,RUN1192_ICE,100,,RUN1192,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1193_ICE,100,,RUN1193,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1194_ICE,100,,RUN1194,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1195_ICE,100,,RUN1195,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1207_ICE,100,,RUN1207,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1209_ICE,100,,RUN1209,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1210_ICE,100,,RUN1210,RsoIIB4NPB,2006,Caribbean,Martinique,Le Lorrain,plant,Eudicot,Solanales,Solanum,Solanum americanum
+ICERso_RUN1145,RUN1211_ICE,100,,RUN1211,RsoIIB4NPB,2007,Caribbean,Martinique,Trinite ,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1212_ICE,100,,RUN1212,RsoIIB4NPB,2007,Caribbean,Martinique,Basse Pointe,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1226_ICE,100,,RUN1226,RsoIIB4NPB,2005,Caribbean,Martinique,Gros Morne,water_river_baited,Environmental,Environmental,Water,water_river_baited_Solanum
+ICERso_RUN1145,RUN1227_ICE,100,,RUN1227,RsoIIB4NPB,2002,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN1229_ICE,100,,RUN1229,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lamentin,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1230_ICE,100,,RUN1230,RsoIIB4NPB,2002,Caribbean,Martinique,Le Lamentin,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1233_ICE,100,,RUN1233,RsoIIB4NPB,2002,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN1249_ICE,100,,RUN1249,RsoIIB4NPB,2002,Caribbean,Martinique,Gros Morne,plant,Monocot,Alismatales,Anthurium,Anthurium andreanum
+ICERso_RUN1145,RUN1267_ICE,100,,RUN1267,RsoIIB4NPB,2004,Caribbean,Martinique,Trinite,plant,Monocot,Zingiberales,Musa,Musa acuminata x balbisiana AAB
+ICERso_RUN1145,RUN1947_ICE,100,,RUN1947,RsoIIB4NPB,2011,South America,French Guiana,Cacao,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1951_ICE,100,,RUN1951,RsoIIB4NPB,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1953_ICE,100,,RUN1953,RsoIIB4NPB,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1956_ICE,100,,RUN1956,RsoIIB4NPB,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1957_ICE,100,,RUN1957,RsoIIB4NPB,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1959_ICE,100,,RUN1959,RsoIIB4NPB,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1960_ICE,100,,RUN1960,RsoIIB4NPB,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1965_ICE,100,,RUN1965,RsoIIB4NPB,2011,South America,French Guiana,Mana,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERso_RUN1145,RUN1966_ICE,100,,RUN1966,RsoIIB4NPB,2011,South America,French Guiana,Wayabo,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERso_RUN1145,RUN1967_ICE,100,,RUN1967,RsoIIB4NPB,2011,South America,French Guiana,Wayabo,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERso_RUN1145,RUN1968_ICE,100,,RUN1968,RsoIIB4NPB,2011,South America,French Guiana,Wayabo,plant,Eudicot,Solanales,Solanum,Solanum melongena
+ICERso_RUN1145,RUN1970_ICE,100,,RUN1970,RsoIIB4NPB,2011,South America,French Guiana,Mana,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1973_ICE,100,,RUN1973,RsoIIB4NPB,2011,South America,French Guiana,Mana,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1980_ICE,100,,RUN1980,RsoIIB4NPB,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1982_ICE,100,,RUN1982,RsoIIB4NPB,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1983_ICE,100,,RUN1983,RsoIIB4NPB,2011,South America,French Guiana,Javouhey,plant,Eudicot,Solanales,Capsicum,Capsicum annuum
+ICERso_RUN1145,RUN1992_ICE,100,,RUN1992,RsoIIB4NPB,2011,South America,French Guiana,Cacao,plant,Eudicot,Cucurbitales,Cucurbita,Cucurbita pepo
+ICERso_RUN1145,RUN1997_ICE,100,,RUN1997,RsoIIB4NPB,2011,South America,French Guiana,Montsinery,plant,Eudicot,Solanales,Solanum,Solanum lycopersicum
+ICERsy_T98,SL3175_ICE,100,,SL3175,Rsy,1999,Asia,South Korea,,,Eudicot,Solanales,Solanum,Solanum tuberosum
+ICERsy_T98,T98_ICE,100,,T98,Rsy,2003,Asia,South Korea,,,Eudicot,Solanales,Solanum,Solanum tuberosum
